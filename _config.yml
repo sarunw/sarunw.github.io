@@ -1,3 +1,4 @@
 name: Sarun Wongpatcharapakorn
 markdown: redcarpet
 pygments: true
+permalink: /posts/:title
